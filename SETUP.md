@@ -70,3 +70,6 @@ There are no issues with generating Verilog from Chisel, which can be pushed to 
     ```
     brew install sbt verilator
     ```
+    
+## Bootcamp
+1.  [For those that want access a chisel bootcamp either on web or locally](https://github.com/freechipsproject/chisel-bootcamp/blob/master/Install.md)
